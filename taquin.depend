@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618263682 source:c:\codeblocks\new_projets\taquin\main.c
+	<stdio.h>
+	<stdlib.h>
+
